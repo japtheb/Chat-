@@ -1,0 +1,76 @@
+.container
+{
+	padding-right: 15px;
+  	padding-left: 15px;
+  	margin-right: auto;
+  	margin-left: auto;
+  	width: 750px;
+}
+
+label 
+{
+	font-weight: bold;
+	margin-right: 5px;
+}
+
+#header
+{
+	text-align: center;
+	font-family: cursive;
+	font-size: 50px;
+}
+
+#nameRow
+{
+	text-align: right;
+	font-family: Verdana;
+
+}
+
+#chatWindow
+{
+	margin-top: 15px;
+	height: 200px;
+	padding: 15px;
+	overflow-y: scroll;
+    border: solid 4px #929292;}
+
+#chatWindow ul
+{
+	list-style-type: none;
+	list-style-position: inside;
+	margin: 2;
+	padding: 0;
+	background-color: rgba(186, 192, 216, 0.82);
+
+}
+
+#chatWindow label
+{
+	display: inline-block;
+  	width: 125px;
+	word-wrap: break-word;
+	background-color: rgba(115, 115, 113, 0.82);
+}
+
+#message
+{
+	width: 100%;
+	margin-top: 10px;
+}
+.image {
+	width: 13%;
+	margin: 4 auto;
+}
+.input
+{
+	padding-top: 13px;
+}
+.p1{
+	text-align: right;
+}
+.body{
+	background-image:url("resource/logoUPiloto.jpeg");
+	background-repeat:repeat;
+} 
+}
